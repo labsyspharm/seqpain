@@ -1,1 +1,67 @@
-/Users/sharongrim/projects/stoppain/painseq/rnaseq_metadata.tsv
+SeqRun	sample	sample_number	treatment	time	timepoint	seq_name	cell_type	cell_line	sample_name	Index_ID	Dose (uM)	Replicate	celltype_treatment	celltype_treatment_timepoint	cellline_treatment_timepoint
+FC06905	S1-no-drug_Read	S1	DMSO	0	0	p6_S1	nociceptor	iPSCs	DMSO_0_nociceptor_p6_S1	NA	NA	NA	1A	2A	NA
+FC06905	S3-no-drug_Read	S3	DMSO	0	0	p6_S3	nociceptor	iPSCs	DMSO_0_nociceptor_p6_S3	NA	NA	NA	1A	2A	NA
+FC07208	NA	S1	DMSO	0	0	p71_S1	nociceptor	iPSCs	DMSO_0_nociceptor_p71_S1	UDI0009	N/A	Biol. Rep. 2	1A	2A	NA
+FC07208	NA	S2	DMSO	0	0	p71_S2	nociceptor	iPSCs	DMSO_0_nociceptor_p71_S2	UDI0010	N/A	Tech. Rep 1	1A	2A	NA
+FC07215	NA	S1	DMSO	1	1	p72_S1	brca	Hs578T	DMSO_1_brca_p72_S1	UDI0009	NA	NA	1E	2K	2K1
+FC07215	NA	S13	DMSO	1	1	p72_S13	brca	MCF7	DMSO_1_brca_p72_S13	UDI0021	NA	NA	1E	2K	2K2
+FC07215	NA	S25	DMSO	1	1	p72_S25	brca	MDAMB231	DMSO_1_brca_p72_S25	UDI0033	NA	NA	1E	2K	2K3
+FC07215	NA	S2	DMSO	6	2	p72_S2	brca	Hs578T	DMSO_6_brca_p72_S2	UDI0010	NA	NA	1E	2L	2L1
+FC07215	NA	S14	DMSO	6	2	p72_S14	brca	MCF7	DMSO_6_brca_p72_S14	UDI0022	NA	NA	1E	2L	2L2
+FC07215	NA	S26	DMSO	6	2	p72_S26	brca	MDAMB231	DMSO_6_brca_p72_S26	UDI0034	NA	NA	1E	2L	2L3
+FC07208	NA	S14	DMSO	6	2	p71_S14	brca	Hs578T	DMSO_6_brca_p71_S14	UDI0022	NA	NA	1E	2L	2L1
+FC07208	NA	S15	DMSO	6	2	p71_S15	brca	MCF7	DMSO_6_brca_p71_S15	UDI0023	NA	NA	1E	2L	2L2
+FC07208	NA	S16	DMSO	6	2	p71_S16	brca	MDAMB231	DMSO_6_brca_p71_S16	UDI0024	NA	NA	1E	2L	2L3
+FC07215	NA	S3	DMSO	24	3	p72_S3	brca	Hs578T	DMSO_24_brca_p72_S3	UDI0011	NA	NA	1E	2M	2M1
+FC07215	NA	S15	DMSO	24	3	p72_S15	brca	MCF7	DMSO_24_brca_p72_S15	UDI0023	NA	NA	1E	2M	2M2
+FC07215	NA	S27	DMSO	24	3	p72_S27	brca	MDAMB231	DMSO_24_brca_p72_S27	UDI0035	NA	NA	1E	2M	2M3
+FC06905	S4-Kw-1hr_Read	S4	Kw	1	1	p6_S4	nociceptor	iPSCs	Kw_1_nociceptor_p6_S4	NA	NA	NA	1B	2B	NA
+FC07208	NA	S3	Kw	1	1	p71_S3	nociceptor	iPSCs	Kw_1_nociceptor_p71_S3	UDI0011	1	Biol. Rep. 1	1B	2B	NA
+FC07208	NA	S4	Kw	1	1	p71_S4	nociceptor	iPSCs	Kw_1_nociceptor_p71_S4	UDI0012	1	Biol. Rep 2	1B	2B	NA
+FC07215	NA	S4	Kw	1	1	p72_S4	brca	Hs578T	Kw_1_brca_p72_S4	UDI0012	NA	NA	1F	2N	2N1
+FC07215	NA	S16	Kw	1	1	p72_S16	brca	MCF7	Kw_1_brca_p72_S16	UDI0024	NA	NA	1F	2N	2N2
+FC07215	NA	S28	Kw	1	1	p72_S28	brca	MDAMB231	Kw_1_brca_p72_S28	UDI0036	NA	NA	1F	2N	2N3
+FC06905	S6-Kw-6hr_Read	S6	Kw	6	2	p6_S6	nociceptor	iPSCs	Kw_6_nociceptor_p6_S6	NA	NA	NA	1B	2C	NA
+FC07208	NA	S5	Kw	6	2	p71_S5	nociceptor	iPSCs	Kw_6_nociceptor_p71_S5	UDI0013	1	Biol. Rep 2	1B	2C	NA
+FC07215	NA	S5	Kw	6	2	p72_S5	brca	Hs578T	Kw_6_brca_p72_S5	UDI0013	NA	NA	1F	2O	2O1
+FC07215	NA	S17	Kw	6	2	p72_S17	brca	MCF7	Kw_6_brca_p72_S17	UDI0025	NA	NA	1F	2O	2O2
+FC07215	NA	S29	Kw	6	2	p72_S29	brca	MDAMB231	Kw_6_brca_p72_S29	UDI0037	NA	NA	1F	2O	2O3
+FC06905	S8-Kw-24hr_Read	S8	Kw	24	3	p6_S8	nociceptor	iPSCs	Kw_24_nociceptor_p6_S8	NA	NA	NA	1B	2D	NA
+FC07208	NA	S6	Kw	24	3	p71_S6	nociceptor	iPSCs	Kw_24_nociceptor_p71_S6	UDI0014	1	Biol. Rep. 2	1B	2D	NA
+FC07215	NA	S6	Kw	24	3	p72_S6	brca	Hs578T	Kw_24_brca_p72_S6	UDI0014	NA	NA	1F	2P	2P1
+FC07215	NA	S18	Kw	24	3	p72_S18	brca	MCF7	Kw_24_brca_p72_S18	UDI0026	NA	NA	1F	2P	2P2
+FC07215	NA	S30	Kw	24	3	p72_S30	brca	MDAMB231	Kw_24_brca_p72_S30	UDI0038	NA	NA	1F	2P	2P3
+FC06905	S10-Taxol-1hr_Read	S10	Taxol	1	1	p6_S10	nociceptor	iPSCs	Taxol_1_nociceptor_p6_S10	NA	NA	NA	1C	2E	NA
+FC07208	NA	S7	Taxol	1	1	p71_S7	nociceptor	iPSCs	Taxol_1_nociceptor_p71_S7	UDI0015	0.1	Biol. Rep. 1	1C	2E	NA
+FC07208	NA	S8	Taxol	1	1	p71_S8	nociceptor	iPSCs	Taxol_1_nociceptor_p71_S8	UDI0016	0.1	Biol. Rep. 2	1C	2E	NA
+FC07215	NA	S7	Taxol	1	1	p72_S7	brca	Hs578T	Taxol_1_brca_p72_S7	UDI0015	NA	NA	1G	2Q	2Q1
+FC07215	NA	S19	Taxol	1	1	p72_S19	brca	MCF7	Taxol_1_brca_p72_S19	UDI0027	NA	NA	1G	2Q	2Q2
+FC07215	NA	S31	Taxol	1	1	p72_S31	brca	MDAMB231	Taxol_1_brca_p72_S31	UDI0039	NA	NA	1G	2Q	2Q3
+FC06905	S12-Taxol-6hr_Read	S12	Taxol	6	2	p6_S12	nociceptor	iPSCs	Taxol_6_nociceptor_p6_S12	NA	NA	NA	1C	2F	NA
+FC07208	NA	S9	Taxol	6	2	p71_S9	nociceptor	iPSCs	Taxol_6_nociceptor_p71_S9	UDI0017	0.1	Biol. Rep. 2	1C	2F	NA
+FC07215	NA	S8	Taxol	6	2	p72_S8	brca	Hs578T	Taxol_6_brca_p72_S8	UDI0016	NA	NA	1G	2R	2R1
+FC07215	NA	S20	Taxol	6	2	p72_S20	brca	MCF7	Taxol_6_brca_p72_S20	UDI0028	NA	NA	1G	2R	2R2
+FC07215	NA	S32	Taxol	6	2	p72_S32	brca	MDAMB231	Taxol_6_brca_p72_S32	UDI0040	NA	NA	1G	2R	2R3
+FC06905	S14-Taxol-24hr_Read	S14	Taxol	24	3	p6_S14	nociceptor	iPSCs	Taxol_24_nociceptor_p6_S14	NA	NA	NA	1C	2G	NA
+FC07208	NA	S10	Taxol	24	3	p71_S10	nociceptor	iPSCs	Taxol_24_nociceptor_p71_S10	UDI0018	0.1	Biol. Rep. 2	1C	2G	NA
+FC07215	NA	S9	Taxol	24	3	p72_S9	brca	Hs578T	Taxol_24_brca_p72_S9	UDI0017	NA	NA	1G	2S	2S1
+FC07215	NA	S21	Taxol	24	3	p72_S21	brca	MCF7	Taxol_24_brca_p72_S21	UDI0029	NA	NA	1G	2S	2S2
+FC07215	NA	S33	Taxol	24	3	p72_S33	brca	MDAMB231	Taxol_24_brca_p72_S33	UDI0041	NA	NA	1G	2S	2S3
+FC06905	S16-Kw+Taxol-1hr_Read	S16	KwTaxol	1	1	p6_S16	nociceptor	iPSCs	KwTaxol_1_nociceptor_p6_S16	NA	NA	NA	1D	2H	NA
+FC06905	S18-Kw+Taxol-1hr_Read	S18	KwTaxol	1	1	p6_S18	nociceptor	iPSCs	KwTaxol_1_nociceptor_p6_S18	NA	NA	NA	1D	2H	NA
+FC07208	NA	S11	KwTaxol	1	1	p71_S11	nociceptor	iPSCs	KwTaxol_1_nociceptor_p71_S11	UDI0019	1, 0.1	Biol. Rep. 2	1D	2H	NA
+FC07215	NA	S10	KwTaxol	1	1	p72_S10	brca	Hs578T	KwTaxol_1_brca_p72_S10	UDI0018	NA	NA	1H	2T	2T1
+FC07215	NA	S22	KwTaxol	1	1	p72_S22	brca	MCF7	KwTaxol_1_brca_p72_S22	UDI0030	NA	NA	1H	2T	2T2
+FC07215	NA	S34	KwTaxol	1	1	p72_S34	brca	MDAMB231	KwTaxol_1_brca_p72_S34	UDI0042	NA	NA	1H	2T	2T3
+FC06905	S19-Kw+Taxol-6hr_Read	S19	KwTaxol	6	2	p6_S19	nociceptor	iPSCs	KwTaxol_6_nociceptor_p6_S19	NA	NA	NA	1D	2I	NA
+FC06905	S21-Kw+Taxol-6hr_Read	S21	KwTaxol	6	2	p6_S21	nociceptor	iPSCs	KwTaxol_6_nociceptor_p6_S21	NA	NA	NA	1D	2I	NA
+FC07208	NA	S12	KwTaxol	6	2	p71_S12	nociceptor	iPSCs	KwTaxol_6_nociceptor_p71_S12	UDI0020	1, 0.1	Biol. Rep 2	1D	2I	NA
+FC07215	NA	S11	KwTaxol	6	2	p72_S11	brca	Hs578T	KwTaxol_6_brca_p72_S11	UDI0019	NA	NA	1H	2U	2U1
+FC07215	NA	S23	KwTaxol	6	2	p72_S23	brca	MCF7	KwTaxol_6_brca_p72_S23	UDI0031	NA	NA	1H	2U	2U2
+FC07215	NA	S35	KwTaxol	6	2	p72_S35	brca	MDAMB231	KwTaxol_6_brca_p72_S35	UDI0043	NA	NA	1H	2U	2U3
+FC06905	S22-Kw+Taxol-24hr_Read	S22	KwTaxol	24	3	p6_S22	nociceptor	iPSCs	KwTaxol_24_nociceptor_p6_S22	NA	NA	NA	1D	2J	NA
+FC06905	S24-Kw+Taxol-24hr_Read	S24	KwTaxol	24	3	p6_S24	nociceptor	iPSCs	KwTaxol_24_nociceptor_p6_S24	NA	NA	NA	1D	2J	NA
+FC07208	NA	S13	KwTaxol	24	3	p71_S13	nociceptor	iPSCs	KwTaxol_24_nociceptor_p71_S13	UDI0021	1, 0.1	Biol. Rep 2	1D	2J	NA
+FC07215	NA	S12	KwTaxol	24	3	p72_S12	brca	Hs578T	KwTaxol_24_brca_p72_S12	UDI0020	NA	NA	1H	2V	2V1
+FC07215	NA	S24	KwTaxol	24	3	p72_S24	brca	MCF7	KwTaxol_24_brca_p72_S24	UDI0032	NA	NA	1H	2V	2V2
+FC07215	NA	S36	KwTaxol	24	3	p72_S36	brca	MDAMB231	KwTaxol_24_brca_p72_S36	UDI0044	NA	NA	1H	2V	2V3
